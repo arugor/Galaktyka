@@ -1,3 +1,5 @@
 Ziemia jest trzecia planeta.
 
 Ziemia ma atmosfere przyjazna czlowiekowi.
+
+Kolejna zmiana w master po utworzeniu asteroid.
