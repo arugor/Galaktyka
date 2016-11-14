@@ -1,0 +1,7 @@
+config.py
+notes/
+*.o
+*.pyc
+.*
+*
+!*.py
